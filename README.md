@@ -1,274 +1,171 @@
-Sojourner 🐐 is WRO Future Engineers 2026
+Sojourner 🐐 — WRO Future Engineers 2026
+Team Overview
 
-Team Description
-
-The team is called PRV Robotics. It is taking part in the WRO Future Engineers 2026 challenge. The robot runs on a LEGO Spike Prime platform, programmed with the LEGO Spike Prime App (Word Blocks) and connected via Bluetooth.
+Team Name: PRV Robotics
+Competition: WRO Future Engineers 2026
+Platform: LEGO Spike Prime
+Programming: LEGO Spike Prime App (Word Blocks)
+Connection: Bluetooth
 
 Solution
 
-Sojourner is an autonomous robot. It drives down the lane, turns corners, and dodges red and green pillars to traverse the field, follow the path, and avoid obstacles as it detects them.
+Sojourner is an autonomous robot. It drives down the lane, turns corners, and avoids red and green pillars to move through the field and follow the path correctly.
 
-The first prototype was developed with EV3 LEGO components. This gave us an understanding of the robot’s locomotion and how to control its direction with motor power. After testing it for forward and reverse movements, steering to the right and left, and stationary movement, we found the motors to be not precise enough for the project. It was impossible to control the movement distance perfectly and the robot was not capable of turning in the same direction every time.
+At the beginning, we built a prototype using EV3 LEGO parts. This helped us understand movement and control. After testing forward, backward, and turning, we found that EV3 motors were not precise enough. The robot could not move the same way every time and was not consistent.
 
-So we decided to use LEGO Spike Prime parts to develop the final design, due to its better motor precision, quicker response time, smaller dimensions, and ability to connect sensors and control the device easily with a single hub. After that, we redesigned and built the final design.
+Because of this, we switched to LEGO Spike Prime, which gave us:
 
-We also changed the wheels to improve mobility. For smoother movements and control, we used Spike wheels to turn the car in the front wheels and bigger and wider EV3 wheels to keep the wheels grounded to the track in the back wheels.
+Better motor precision
+Faster response
+Smaller design
+Easier connection of sensors and control
 
+After switching, we redesigned and built the final version.
+
+We also improved the wheels:
+
+Spike wheels in the front → better turning
+Wide EV3 wheels in the back → better traction and stability
 Mobility
 
-Two motors are used:
+The robot uses two motors:
 
+Drive Motor (Port C): moves forward and backward
+Steering Motor (Port D): controls direction
 
+We used a steering system instead of tank turning. This makes the robot move more like a real car and gives smoother and more controlled turns.
 
-
-
-Motor 1: drive motor, port C, is used to move the robot forwards and backwards.
-
-
-
-Motor 2: steering motor, port D, is used to control the robot’s steering system.
-
-A steering system has been used rather than tank turning. This makes it behave more like a real car and also ensures it can turn more smoothly, providing more control while driving around the corners of the track.
-
-A combination of motor degrees and speed has been used to control the movement. This helps us perform accurate movements consistently. For instance, we use specific values to control forward movements, backward movements, and specific angles for steering movements.
+We use motor degrees and speed to keep movements consistent and accurate.
 
 Power
 
-The robot’s power is supplied by the Spike Prime battery installed in the Hub. The battery powers everything on the robot, including the motors, the sensors, and the controller. No external batteries are required.
-
-The robot has plenty of time to run through a test and is charged via USB-C.
+The robot is powered by the Spike Prime battery inside the hub.
+It powers all motors, sensors, and the controller.
+No external batteries are used.
 
 Sensors
 
-Two primary sensors are used.
+We use two main sensors:
 
+Distance Sensor (Port E): detects walls and obstacles
+Color Sensor (Port A): detects red and green pillars
 
-
-
-
-Distance sensor, port E: used to detect walls and any obstacle in front of the robot.
-
-
-
-Color sensor, port A: used to detect red and green pillars.
-
-A yaw sensor is also utilized to track direction and improve the robot’s accuracy when turning.
+We also use the yaw sensor to improve turning accuracy and direction.
 
 Obstacle Handling
 
-A distance sensor is constantly monitoring the path for any obstacles.
+The robot is always checking for obstacles.
 
-When the robot detects an object nearby, it stops and checks the object with the color sensor.
+If something is close → robot stops
+It checks the color
+Green → goes around on the right
+Red → goes around on the left
+No color → treated as a wall and continues forward
 
-If the color detected is green, it will turn around the obstacle to the right. If the color detected is red, it will turn around the obstacle to the left. When no color is detected, it will consider it as a wall and move forward.
-
-This pattern repeats for the sequence to turn around the pillar. After the obstacle is cleared, it resumes its journey.
+After avoiding the obstacle, the robot continues driving normally.
 
 Code Structure
 
-We have developed three distinct programs:
+We created three programs:
 
+Open 1: basic driving and turning
+Open 2: uses yaw sensor for better control
+Beta 3: full obstacle detection and avoidance
 
+All programs are made using Word Blocks in the Spike Prime app.
 
-
-
-Open 1: This covers simple driving and turning.
-
-
-
-Open 2: This program drives the robot using a Yaw sensor for better steering accuracy.
-
-
-
-Beta 3: This program handles obstacle avoidance.
-
-The programs were created on Word Blocks, part of the Spike Prime application. Each of the three programs is a standalone unit with its own specific goal and is independently tested. The program for the obstacle avoidance task utilizes a loop. A loop makes the robot work in real-time, checking and responding to sensor values as they change.
+The obstacle program uses a loop, which allows the robot to react in real time.
 
 Electromechanical Integration
 
-All components are attached directly to the Spike Prime hub and are not connected to any intermediate parts:
+All parts connect directly to the hub:
 
+Drive Motor → Port C
+Steering Motor → Port D
+Color Sensor → Port A
+Distance Sensor → Port E
 
+The hub acts as the brain and controls everything.
 
-
-
-Drive Motor connected to Port C on the hub.
-
-
-
-Steering Motor connected to Port D on the hub.
-
-
-
-Color Sensor connected to Port A on the hub.
-
-
-
-Distance Sensor connected to Port E on the hub.
-
-The hub acts as the "brain" of the robot and controls all the parts through sending different signals to both the motors and sensors. Once the program is uploaded onto the hub, the robot works entirely on its own and will not require any more inputs during operation.
+Once the program is uploaded, the robot runs fully on its own.
 
 How to Build, Compile, and Upload
+Open the LEGO Spike Prime app
+Open a project file
+Turn on the hub
+Connect using Bluetooth
+Check ports are correct
+Click download
+Run the program
 
-
-
-
-
-Open the LEGO Spike Prime app.
-
-
-
-Open one of the project files within the app.
-
-
-
-Switch on the hub.
-
-
-
-Connect your laptop and hub using Bluetooth.
-
-
-
-Check to ensure that the motors and sensors are connected to the correct ports.
-
-
-
-Click download to download the program to the hub.
-
-
-
-Run the program.
-
-No additional programs or files are required because the programs are written through the Spike Prime app itself.
+Everything is done inside the Spike Prime app.
 
 Engineering Journal
 
+Week 1:
+We built the first prototype using EV3 and started programming. We found it was not precise, so we switched to Spike Prime, changed wheels, and started the final build. We also created the GitHub account.
 
+Week 2:
+We continued testing and worked on improving movement accuracy.
 
+Week 3:
+We tested more, improved movement, and added new code. We also created a YouTube account but had issues. We added the distance sensor.
 
+Week 4:
+We continued testing and coding. We improved turning and control and made changes to improve the robot.
 
-Week 1: We built the first prototype using the LEGO EV3 parts and started writing the first program to make the robot move. However, we found that we could not get it to work properly with high accuracy. We then decided to replace all parts with Spike Prime, get different wheels for a different design, and began making the final prototype. In the same week, we also opened our GitHub account.
+Week 5:
+More coding and testing were done to improve movement behavior.
 
+Week 6:
+We created programs to turn corners and reach pillars on both sides.
 
+Week 7:
+We measured the field and used that to improve the program.
 
-Week 2: We continued our testing and began working with different experiments and coding to make the robot more accurate in its movements.
+Week 8:
+We tested again and made small changes for accuracy.
 
+Week 9:
+We improved pillar detection and made small adjustments.
 
-
-Week 3: More tests were completed on the robot to achieve higher accuracy, and we began adding code and other programs to make the robot move much better and more naturally. We also opened a YouTube channel but encountered some issues. The distance sensor is added to the robot during this week.
-
-
-
-Week 4: More testing and coding were completed during this time, and we began working on code to control the robot and make turns smoother. We began changing different things in the program to improve the final design.
-
-
-
-Week 5: Coding was still done in this week on our robot, and more testing was completed with the different movements.
-
-
-
-Week 6: The two programs that were made in this week were to allow the robot to turn corners to the pillars on both the left and right side of the robot.
-
-
-
-Week 7: We continued working on coding to make the robot turn properly. At this time, we measured the whole field, and we used that information to help change the final design of the program.
-
-
-
-Week 8: Testing the program again with the robot to see how accurate it is and making any changes to make the robot more accurate.
-
-
-
-Week 9: More testing and coding was done and began working on making the robot better at detecting pillars and making other small changes on the program to make the final design more accurate.
-
-
-
-Week 10: During this week, we were focused more on the written report and documentation and fixing other issues with our GitHub account.
+Week 10:
+We focused on documentation and report writing and fixed issues with GitHub.
 
 Photos
 
-We are providing pictures of the robot from all angles:
-
-
-
-
+We include photos of the robot from all sides:
 
 Front
-
-
-
 Back
-
-
-
 Left
-
-
-
 Right
-
-
-
 Top
-
-
-
 Bottom
 
-We are also providing a picture of the team.
+We also include a team photo.
 
 Videos
-
-
-
-
-
 Open Challenge: (add link)
-
-
-
 Obstacle Challenge: (add link)
 
-The above videos contain at least 30 seconds of the robot driving on its own.
+Each video shows at least 30 seconds of autonomous driving.
 
 Repository Structure
-
-
-
-
-
 README.md
-
-
-
 src/
-
-
-
-
-
 models/
-
-
-
 schemes/
-
-
-
 video/
-
-
-
 t-photos/
-
-
-
 v-photos/
-
 Final Note
 
-This is the full design report for our project. During this 10 weeks, we built the robot from the first prototype to the final version, coding and testing it along the way. We tried many things and discovered our own faults and worked on them to create the best possible program and robot in the end. In the final design, the robot can drive on its own and detect objects, reacting appropriately on its own.
+This project shows our full process from prototype to final robot.
+We tested, found problems, fixed them, and improved step by step.
 
+In the end, the robot can:
 
-
+Drive on its own
+Detect obstacles
+Make decisions based on sensors
