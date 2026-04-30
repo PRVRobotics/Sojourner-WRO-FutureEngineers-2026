@@ -2,7 +2,7 @@
 
 ## Team Overview
 
-**Team Name:** Sojourner  
+**Team Name:** PRV Robotics  
 **Competition:** WRO Future Engineers 2026  
 **Platform:** LEGO Spike Prime (Flipper Hub)  
 **Programming Environment:** LEGO Spike Prime App (Word Blocks)  
