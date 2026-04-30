@@ -1,0 +1,50 @@
+# ============================================================
+# Sojourner (open 1) — Pseudocode
+# ============================================================
+# Platform: LEGO Spike Prime (Flipper Hub)
+# Challenge: Open Challenge — Basic Track Navigation
+# Direction: Counterclockwise
+#
+# Port Assignments:
+#   Port C = Drive Motor (main wheels)
+#   Port D = Steering Motor (front wheel angle)
+#
+# Description:
+#   This program drives the robot around the track in a
+#   counterclockwise direction. It uses sequential motor
+#   commands to drive straight segments and turn corners.
+#   No sensors are used — the path is pre-programmed based
+#   on measured track dimensions.
+# ============================================================
+
+# --- WHEN PROGRAM STARTS ---
+
+# Step 1: Set motor speeds
+motor_C.set_speed(75)        # Drive motor at 75% — fast forward speed
+motor_D.set_speed(40)        # Steering motor at 40% — moderate turn speed
+
+# Step 2: Drive forward (first straight segment)
+motor_C.run_for(1600, degrees, counterclockwise)
+    # Drive forward ~1600 degrees of wheel rotation
+    # Counterclockwise = forward direction for this motor orientation
+
+# Step 3: Turn corner — adjust steering left
+motor_D.run_for(30, degrees, counterclockwise)
+    # Turn the steering wheel slightly to prepare for corner
+
+# Step 4: Correct steering — bring back to center
+motor_C.run_for(150, degrees, clockwise)
+    # Brief reverse/correction to align through the corner
+
+# Step 5: Drive forward (second straight segment)
+motor_C.run_for(1200, degrees, counterclockwise)
+    # Continue driving forward through the next section
+
+# Step 6: Straighten steering after turn
+motor_D.run_for(30, degrees, clockwise)
+    # Return steering motor to center position
+
+# --- END OF PROGRAM ---
+
+# Note: The hub display shows "double it" as a debug message
+# indicating the program completed successfully.

@@ -1,0 +1,86 @@
+# ============================================================
+# Sojourner (open 2) — Pseudocode
+# ============================================================
+# Platform: LEGO Spike Prime (Flipper Hub)
+# Challenge: Open Challenge — Yaw-Assisted Navigation
+#
+# Port Assignments:
+#   Port C = Drive Motor (main wheels)
+#   Port D = Steering Motor (front wheel angle)
+#   Hub IMU = Yaw angle tracking (built-in)
+#
+# Description:
+#   Enhanced version of the open challenge program. This
+#   program uses two parallel execution stacks:
+#     Stack 1: Main driving sequence with yaw monitoring
+#     Stack 2: Steering motor calibration (runs independently)
+#   The yaw sensor is used to detect when the robot has
+#   completed a turn (yaw angle exceeds 100 degrees).
+# ============================================================
+
+# === STACK 1: MAIN DRIVE SEQUENCE ===
+# --- WHEN PROGRAM STARTS ---
+
+# Step 1: Reset orientation reference
+hub.motion.reset_yaw()
+    # Zero out the yaw angle so all turns are measured
+    # relative to the starting heading
+
+# Step 2: Set motor speeds
+motor_C.set_speed(75)        # Drive motor at 75% — fast forward speed
+motor_D.set_speed(40)        # Steering motor at 40% — moderate turn speed
+
+# Step 3: Drive forward (first straight segment)
+motor_C.run_for(1400, degrees, counterclockwise)
+    # Drive forward ~1400 degrees of wheel rotation
+
+# Step 4: Correct heading — brief clockwise adjustment
+motor_C.run_for(150, degrees, clockwise)
+    # Small reverse to fine-tune position after straight
+
+# Step 5: Turn corner — steer right
+motor_D.run_for(30, degrees, clockwise)
+    # Adjust steering angle for corner entry
+
+# Step 6: Drive through corner
+motor_C.run_for(700, degrees, counterclockwise)
+    # Drive through the turn
+
+# Step 7: Counter-steer to straighten out
+motor_D.run_for(35, degrees, counterclockwise)
+    # Adjust steering back toward center
+
+# Step 8: Continue forward
+motor_C.run_for(200, degrees, counterclockwise)
+    # Short forward segment after the turn
+
+
+# === STACK 2: STEERING CALIBRATION (runs in parallel) ===
+# --- WHEN PROGRAM STARTS ---
+
+# Step 1: Set steering to slow calibration speed
+motor_D.set_speed(20)        # Slow speed for precise centering
+
+# Step 2: Reset the degree counter
+motor_D.reset_degree_count()
+    # Zero out the steering motor's position counter
+    # so all subsequent moves are relative to this "center"
+
+# Step 3: Center the steering
+motor_D.run_for(40, degrees, counterclockwise)
+    # Move the steering motor to a known center position
+    # This compensates for any drift from the previous run
+
+
+# === ORPHAN BLOCK: YAW-BASED TURN DETECTION ===
+# (This block exists in the project but is not connected
+#  to the main stacks — likely used during development/testing)
+
+motor_C.start(counterclockwise)
+    # Start driving forward continuously
+wait_until(hub.motion.get_yaw() > 100)
+    # Wait until the robot has turned more than 100 degrees
+motor_C.stop()
+    # Stop the drive motor once the turn is complete
+
+# --- END OF PROGRAM ---

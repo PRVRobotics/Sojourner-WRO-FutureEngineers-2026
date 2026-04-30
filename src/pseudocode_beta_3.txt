@@ -1,0 +1,150 @@
+# ============================================================
+# Sojourner beta 3 — Pseudocode
+# ============================================================
+# Platform: LEGO Spike Prime (Flipper Hub)
+# Challenge: Obstacle Challenge — Autonomous Pillar Avoidance
+#
+# Port Assignments:
+#   Port A = Color Sensor (pillar color detection)
+#   Port C = Drive Motor (main wheels)
+#   Port D = Steering Motor (front wheel angle)
+#   Port E = Ultrasonic Distance Sensor (obstacle detection)
+#
+# Color Codes:
+#   6  = Green (pass the pillar on the RIGHT side)
+#   9  = Red   (pass the pillar on the LEFT side)
+#   -1 = No color detected (wall — increase speed, keep going)
+#
+# Description:
+#   The most advanced program. It combines continuous distance
+#   scanning with color-based decision-making to navigate the
+#   track and avoid randomly placed colored pillars. The robot
+#   identifies each pillar's color and executes the appropriate
+#   avoidance maneuver (right for green, left for red).
+# ============================================================
+
+# === BLOCK 1: STARTUP — INITIAL CALIBRATION ===
+# --- WHEN PROGRAM STARTS ---
+
+# Step 1: Set initial motor speeds
+motor_C.set_speed(40)        # Drive motor at 40% — moderate approach speed
+motor_D.set_speed(25)        # Steering motor at 25% — slow, precise turns
+
+# Step 2: Center steering
+motor_D.run_for(25, degrees, clockwise)
+    # Nudge steering to a known starting position
+
+# Step 3: Initial forward drive
+motor_C.run_for(600, degrees, counterclockwise)
+    # Drive forward toward the first wall or obstacle
+
+# Step 4: Steer adjustment
+motor_D.run_for(50, degrees, counterclockwise)
+    # Adjust heading during approach
+
+# Step 5: Continue forward
+motor_C.run_for(250, degrees, counterclockwise)
+    # Drive a shorter segment
+
+# Step 6: Re-center steering
+motor_D.run_for(25, degrees, clockwise)
+    # Bring steering back to center
+
+
+# === BLOCK 2: FIRST WALL APPROACH ===
+# (Runs once — handles the initial wall encounter)
+
+if distance_sensor_E < 18 cm:
+    # Wall or obstacle detected within 18 cm ahead
+    
+    # Switch to faster speeds for wall handling
+    motor_C.set_speed(60)    # Increase drive speed to 60%
+    motor_D.set_speed(30)    # Increase steering speed to 30%
+    
+    # Execute wall-following turn
+    motor_C.run_for(1500, degrees, counterclockwise)
+        # Drive a long segment along the wall
+    motor_D.run_for(30, degrees, clockwise)
+        # Steer right to begin corner turn
+    motor_C.run_for(900, degrees, counterclockwise)
+        # Drive through the corner
+    motor_D.run_for(35, degrees, counterclockwise)
+        # Counter-steer to straighten out after turn
+
+
+# === BLOCK 3: MAIN LOOP — CONTINUOUS OBSTACLE AVOIDANCE ===
+
+while True:  # Forever loop — runs until program is stopped
+
+    if distance_sensor_E < 14 cm:
+        # *** OBSTACLE DETECTED within 14 cm ***
+        
+        motor_C.stop()
+            # Immediately stop the drive motor
+        
+        # --- Check pillar color ---
+        
+        if color_sensor_A == GREEN (code 6):
+            # GREEN PILLAR — must pass on the RIGHT side
+            
+            hub.display.image(arrow_right)
+                # Display a right-arrow icon on the hub LED matrix
+                # Matrix pattern: "0090000900909090999000900"
+            
+            motor_C.stop()
+            wait(0.5 seconds)
+                # Brief pause to stabilize before maneuver
+            
+            # === GREEN AVOIDANCE MANEUVER (pass right) ===
+            motor_C.run_for(230, degrees, clockwise)
+                # Reverse away from the pillar
+            motor_D.run_for(30, degrees, clockwise)
+                # Steer RIGHT to go around the pillar
+            motor_C.run_for(300, degrees, counterclockwise)
+                # Drive forward past the pillar on the right
+            motor_D.run_for(60, degrees, counterclockwise)
+                # Counter-steer LEFT to straighten heading
+            motor_C.run_for(150, degrees, counterclockwise)
+                # Continue forward past the pillar
+            motor_D.run_for(35, degrees, clockwise)
+                # Final steering correction back to center
+        
+        if color_sensor_A == RED (code 9):
+            # RED PILLAR — must pass on the LEFT side
+            
+            hub.display.image(arrow_left)
+                # Display a left-arrow icon on the hub LED matrix
+                # Matrix pattern: "0090009990909090090000900"
+            
+            motor_C.stop()
+            wait(0.5 seconds)
+                # Brief pause to stabilize before maneuver
+            
+            # === RED AVOIDANCE MANEUVER (pass left) ===
+            motor_C.run_for(230, degrees, clockwise)
+                # Reverse away from the pillar
+            motor_D.run_for(30, degrees, counterclockwise)
+                # Steer LEFT to go around the pillar
+            motor_C.run_for(300, degrees, counterclockwise)
+                # Drive forward past the pillar on the left
+            motor_D.run_for(60, degrees, clockwise)
+                # Counter-steer RIGHT to straighten heading
+            motor_C.run_for(150, degrees, counterclockwise)
+                # Continue forward past the pillar
+            motor_D.run_for(35, degrees, counterclockwise)
+                # Final steering correction back to center
+        
+        if color_sensor_A == NO_COLOR (code -1):
+            # NO COLOR — this is a wall, not a pillar
+            
+            motor_C.set_speed(60)
+                # Increase drive speed for wall-following
+            motor_C.start(counterclockwise)
+                # Start driving forward continuously at high speed
+    
+    else:
+        # No obstacle within 14 cm — keep driving
+        motor_C.start(counterclockwise)
+            # Continue driving forward at current speed
+
+# --- END OF MAIN LOOP (runs until hub button is pressed) ---
