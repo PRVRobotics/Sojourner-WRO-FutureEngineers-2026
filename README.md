@@ -146,10 +146,8 @@ Bottom
 We also include a team photo.
 
 Videos
-Open Challenge: (add link)
-Obstacle Challenge: (add link)
-
-Each video shows at least 30 seconds of autonomous driving.
+Open Challenge:
+Obstacle Challenge: 
 
 Repository Structure
 README.md
