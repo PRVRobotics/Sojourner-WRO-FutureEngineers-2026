@@ -2,7 +2,7 @@
 
 The journal is a book of entries ment to detail every singular event that happened over the course of time that took to prepare the robot.
 
-# Preparations for national competition (2/2/2026 - 5/2/2026)
+# Preparations for national competition   (2/2/2026 - 5/2/2026)
 
 Week 1: We built the first prototype using EV3 and started programming. We found it was not precise, so we switched to Spike Prime, changed wheels, and started the final build. We also created the GitHub account.
 
