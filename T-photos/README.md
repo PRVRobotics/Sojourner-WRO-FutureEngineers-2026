@@ -1,4 +1,10 @@
 # Team Photo
-We met in School
-and the Formation was forced.
+
+
+# Team Description
+
+Members:
+Eliel Salas Morales
+Yeriel Cruz Hernandez
+Aurelio Perez Huertas
 
