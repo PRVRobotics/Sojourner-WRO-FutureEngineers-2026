@@ -25,12 +25,16 @@ Week 9: We improved pillar detection and made small adjustments.
 Week 10: We focused on documentation and report writing and fixed issues with GitHub.
 # Preparation for Open Championship USA 2026 (8/14/2026 - 9/24/2026)
 
-8/14/2026:
+8/14/2026:We took a look at each other's GitHub. It is better if we have our own code section. We discussed on ways to better our GitHub page and code.
+We found/discovered a 3D robot design studio: Studio v2.26.7 (?). Work on elec. diagram and on mechanical diagram. Work on table of contents and list of pieces. Work on list of pictures.
 
-8/15/2026:
+8/15/2026:Worked on robot sensors/diagonal sensors, added distance focus on doing the three laps.
+We also made a concept art of the robot.
 
-8/20/2026:
+8/20/2026:Today we worked on the criteria routine for the GitHub and journaling. We learned how to move around and the 5 criteria required for the documentation, mobility and mechanical design, power and sensor architecture, software architecture and obstacle strategy, and reproducibility and GitHub quality.
+We also learned the worth and points for how much each category was worth.
+After, we decided to log what we had done this day.
 
-8/21/2026:
+8/21/2026:Today we also learned some more rules, which detailed how the challenges are meant to be done, including points and distance.
 
-8/22/2026:
+8/22/2026:Today, we focused solely on the robot's programming, ensuring the Open Challenge programming is optimal.
