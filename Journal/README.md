@@ -3,28 +3,26 @@
 The journal is a book of entries ment to detail every singular event that happened over the course of time that took to prepare the robot.
 
 # Preparations for national wro Puerto Rico competition   (2/2/2026 - 5/2/2026)
-Sábado / 15/agosto/2026
-Aurelio / Jomal, Yeriel
 
-Worked on robot sensors/diagonal sensors, added distance focus on doing the three laps.
-We also made a concept art of the robot.
+Week 1: We built the first prototype using EV3 and started programming. We found it was not precise, so we switched to Spike Prime, changed wheels, and started the final build. We also created the GitHub account.
 
-Jueves / 20/agosto/2026
-Aurelio / Jomal
+Week 2: We continued testing and worked on improving movement accuracy.
 
-Today we worked on the criteria routine for the GitHub and journaling. We learned how to move around and the 5 criteria required for the documentation, mobility and mechanical design, power and sensor architecture, software architecture and obstacle strategy, and reproducibility and GitHub quality.
-We also learned the worth and points for how much each category was worth.
-After, we decided to log what we had done this day.
+Week 3: We tested more, improved movement, and added new code. We also created a YouTube account but had issues. We added the distance sensor.
 
-Viernes / 21/agosto/2026
-Aurelio / Jomal, Yeriel, Eliel
+Week 4: We continued testing and coding. We improved turning and control and made changes to improve the robot.
 
-Today we also learned some more rules, which detailed how the challenges are meant to be done, including points and distance.
+Week 5: More coding and testing were done to improve movement behavior.
 
+Week 6: We created programs to turn corners and reach pillars on both sides.
 
-Sábado / 22/agosto/2026
+Week 7: We measured the field and used that to improve the program.
 
-Today, we focused solely on the robot's programming, ensuring the Open Challenge programming is optimal.
+Week 8: We tested again and made small changes for accuracy.
+
+Week 9: We improved pillar detection and made small adjustments.
+
+Week 10: We focused on documentation and report writing and fixed issues with GitHub.
 # Preparation for Open Championship USA 2026 (8/14/2026 - 9/24/2026)
 
 8/14/2026:
