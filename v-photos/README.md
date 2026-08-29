@@ -7,7 +7,7 @@ In this section, you will be able to view the various versions of our robot prot
 
 | Top and Bottom | Sides | Front and Back |
 |---|---|---|
-| ![Top](top.jpg) | ![]()  | ![]()  |
+| ![Version 1.0](top.jpg) | ![]()  | ![]()  |
 | ![]()  | ![]()  | ![]()  |
 
 # Version 2.0 (8/14/2026 - 9/24/2026)
