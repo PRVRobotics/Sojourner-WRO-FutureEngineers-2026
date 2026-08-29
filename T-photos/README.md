@@ -11,5 +11,7 @@ Yeriel Cruz Hernandez: (Description of why you joined the team and what do you w
 
 Aurelio Perez Huertas: (Description of why you joined the team and what do you want to study after you graduate highschool)
 
+When and why was the team founded?
 
+(Description)
 
