@@ -14,3 +14,5 @@ The electrical diagrams represent the connections established in our robot from 
 | LEGO Yellow SPIKE Hub (105474 / 109712) | 1x |  |
 |LEGO Black SPIKE Color Sensor (37308) | 1x | |
 | Cables | 7x | |
+
+# Diagram of the connections
