@@ -1,3 +1,4 @@
+<img width="2048" height="1536" alt="Top" src="https://github.com/user-attachments/assets/3d08532b-fab0-4c16-a6c8-0c8cbce847e2" />
 # Versions of our robot 
 
 In this section, you will be able to view the various versions of our robot prototypes.
