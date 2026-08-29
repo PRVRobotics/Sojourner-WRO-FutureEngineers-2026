@@ -38,3 +38,9 @@ After, we decided to log what we had done this day.
 8/21/2026:Today we also learned some more rules, which detailed how the challenges are meant to be done, including points and distance.
 
 8/22/2026:Today, we focused solely on the robot's programming, ensuring the Open Challenge programming is optimal.
+
+8/27/2026:
+
+8/28/2026:
+
+8/29/2026:
