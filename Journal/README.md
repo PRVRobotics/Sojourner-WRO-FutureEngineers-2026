@@ -39,8 +39,8 @@ After, we decided to log what we had done this day.
 
 8/22/2026: Today, we focused solely on the robot's programming, ensuring the Open Challenge programming is optimal.
 
-8/27/2026:
+8/27/2026: Today, we sat down and wrote and deleted various unnecessary files on the Github. 
 
-8/28/2026:
+8/28/2026: We grouped up and worked on the robot's sensors while still working on the Github.
 
-8/29/2026:
+8/29/2026: Today we took photos of the robot and worked on the Github.
