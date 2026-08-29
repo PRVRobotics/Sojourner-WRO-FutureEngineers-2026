@@ -19,5 +19,8 @@ In this section, you will be able to view the various versions of our robot prot
 
 | Top and Bottom | Sides | Front and Back |
 |---|---|---|
-| Information | Information | Information |
+| <img width="2048" height="1536" alt="Top" src="https://github.com/user-attachments/assets/2246966f-43e6-48bc-99b4-5c94b414bffc" />
+ | <img width="2048" height="1536" alt="Right" src="https://github.com/user-attachments/assets/1e93dffb-0b20-4c45-b302-5693834d58a7" />
+ | <img width="2048" height="1536" alt="Back" src="https://github.com/user-attachments/assets/2789f0a9-1507-42f1-9b15-b746977d8f6f" />
+ |
 | Information | Information | Information |
