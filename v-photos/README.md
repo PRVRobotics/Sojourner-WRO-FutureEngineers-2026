@@ -23,4 +23,7 @@ In this section, you will be able to view the various versions of our robot prot
  | <img width="2048" height="1536" alt="Right" src="https://github.com/user-attachments/assets/1e93dffb-0b20-4c45-b302-5693834d58a7" />
  | <img width="2048" height="1536" alt="Back" src="https://github.com/user-attachments/assets/2789f0a9-1507-42f1-9b15-b746977d8f6f" />
  |
-| Information | Information | Information |
+| <img width="2048" height="1536" alt="Bottom" src="https://github.com/user-attachments/assets/76de2cf7-e134-44c2-aad2-9fa26b958cad" />
+ | <img width="2048" height="1536" alt="Left" src="https://github.com/user-attachments/assets/bb460c33-a400-458e-b0e8-df63716c733a" />
+ | <img width="2048" height="1536" alt="Bottom" src="https://github.com/user-attachments/assets/bfe3e7b0-eac2-407a-9401-e01fce2c365d" />
+ |
