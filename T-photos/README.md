@@ -1,5 +1,6 @@
 # Team Photo
 
+<img width="1600" height="746" alt="WhatsApp Image 2026-08-29 at 3 33 56 PM" src="https://github.com/user-attachments/assets/8eeb3475-ee57-4757-b772-af531ddcb04c" />
 
 # Team Description
 
