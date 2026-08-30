@@ -16,3 +16,5 @@ The electrical diagrams represent the connections established in our robot from 
 | Cables | 7x | |
 
 # Diagram of the connections
+
+(Image of the connections)
