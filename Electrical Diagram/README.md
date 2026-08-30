@@ -18,3 +18,7 @@ The electrical diagrams represent the connections established in our robot from 
 # Diagram of the connections
 
 (Image of the connections)
+
+# Why did we use these components and connections?
+
+(EXPLAIN IN DETAIL IM SERIOUS, Easy 30 pts)
