@@ -7,6 +7,7 @@
 (Explain what is gonna be in the photo with detail)
 
 (Image of a simulation made in studio 2.0)
+(Images of the actual robot) 
 
 # Building instructions for our robot
 
