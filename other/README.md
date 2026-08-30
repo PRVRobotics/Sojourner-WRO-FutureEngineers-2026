@@ -1,4 +1,4 @@
-# Additional Documentation
+# Additional Documentation (Delete this seccion and salvage what is useful for other seccions)
 
 ## Engineering Journal — Detailed Notes
 
