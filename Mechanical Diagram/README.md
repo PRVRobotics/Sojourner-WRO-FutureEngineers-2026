@@ -2,6 +2,10 @@
 
 (What is this section? Explain in detail)
 
+# List of materials used in the construction
+
+(Make a table with name of piece, amount and part number)
+
 # Diagram of the robot
 
 (Explain what is gonna be in the photo with detail)
@@ -18,10 +22,5 @@
 # Why did we use this desing and building kit?
 
 (Explain in detail please) 
-
-# List of materials used in the construction
-
-(Make a table with name of piece, amount and part number)
-
 
 
