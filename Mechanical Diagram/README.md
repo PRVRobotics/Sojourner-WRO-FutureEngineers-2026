@@ -13,9 +13,9 @@
 |Cross Axle 2m |6089119| |
 |Frame 3X3 black |6265644  | |
 |Frame 7X11 Viole |6252663 | |
-| | | |
-| | | |
-| | | |
+|Technic 15M Beam | 45422573 | 1|
+| HUB NO.8 | 6464165 |1 |
+|Rechargeable Battery |6482346 | 1 |
 
 # Diagram of the robot
 
