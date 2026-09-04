@@ -13,5 +13,5 @@ Aurelio Perez Huertas:  I joined the team when I had to switch over from my olde
 
 # When and why was our team founded and formed?
 The team was formed on February 2, 2026, specifically to complete a technology class project that required us to participate in the 2026 WRO Future Engineers competition.
-(Description)
+
 
