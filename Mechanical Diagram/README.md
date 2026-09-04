@@ -4,7 +4,14 @@
 
 # List of materials used in the construction
 
-(Make a table with name of piece, amount and part number)
+| Component | Quantity | Description |
+|---|---:|---| 
+| |  | |
+| | |  |
+|  |  | |
+|  |  | |
+| || |
+| |  | |
 
 # Diagram of the robot
 
