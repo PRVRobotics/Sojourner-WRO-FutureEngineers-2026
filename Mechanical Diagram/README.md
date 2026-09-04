@@ -6,13 +6,13 @@ This section is made to show the diagram for the mechanics of the robot, here yo
 
 | Component | Part number | Amount |
 |---|---:|---| 
-|Blue Brick 2X4 | 6224916 | |
-|Red Brick 2X4 |6224918 |  |
-|Connector Peg yellow  | 4666579 | |
-|Connector peg black  | 6279875 | |
+|Blue Brick 2X4 | 6224916 |6 |
+|Red Brick 2X4 |6224918 | 4 |
+|Connector Peg yellow  | 4666579 |20 |
+|Connector peg black  | 6279875 |33 |
 |Cross Axle 2m |6089119| |
-|Frame 3X3 black |6265644  | |
-|Frame 7X11 Viole |6252663 | |
+|Frame 3X3 black |6265644  | 7|
+|Frame 7X11 Viole |6252663 |4 |
 |Technic 15M Beam | 45422573 | 1|
 | HUB NO.8 | 6464165 |1 |
 |Rechargeable Battery |6482346 | 1 |
