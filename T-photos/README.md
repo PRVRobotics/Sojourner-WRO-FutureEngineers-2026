@@ -11,7 +11,6 @@ Yeriel Cruz Hernandez: I joined the team because I wanted to get more experience
 
 Aurelio Perez Huertas:  I joined the team when I had to switch over from my older team and when I graduate, I want to study animation, chef and aviation.
 
-# When and why was the team founded?
-
+#The team was formed on February 2, 2026, specifically to complete a technology class project that required us to participate in the 2026 WRO Future Engineers competition.
 (Description)
 
