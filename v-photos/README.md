@@ -19,7 +19,7 @@ This compact autonomous robot features a lightweight four-wheel design built pri
 
 # Version 2.0 (8/14/2026 - 9/24/2026)
 
-Description: This version uses 4 cameras instead of 2, which helps solve the problem of peripheral vision, allowing the robot to execute the priority commands better.
+This robot is a compact autonomous vehicle designed around a LEGO SPIKE Prime hub and a lightweight Technic frame. The design features a four-wheel configuration with large rubber tires that provide stability and traction while maintaining a narrow footprint for maneuvering through tight spaces. At the front, the robot integrates a camera module supported by three distance sensors positioned to monitor the forward and side surroundings, enabling accurate obstacle detection and environmental awareness. The centrally mounted SPIKE Prime hub serves as the control center, while a geared rear-wheel drive system efficiently transfers power from the motor to the wheels. The open-frame chassis reduces weight and allows easy access to components for maintenance and modifications. Overall, the robot emphasizes sensor coverage, mechanical simplicity, and reliable autonomous navigation, making it well suited for robotics challenges that require precise movement, object detection, and real-time decision making.
 
 | Top and Bottom | Sides | Front and Back |
 |---|---|---|
