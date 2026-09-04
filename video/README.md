@@ -1,5 +1,5 @@
 # Competition Videos
-(What section is this ? EXPLAIN IN DETAIL)
+In this section we can find the videos related to our robot compleating the several parts of the competition challenges.
 
 ## Open Challenge
 
