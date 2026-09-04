@@ -4,7 +4,7 @@
 
 # Members
 
-Eliel Salas Morales: I’m honestly SO happy to be here, especially because there’s FREE FOOD 😭😂. The food alone makes this whole experience worth it! I’m definitely enjoying the competition, but I can’t lie, knowing I get to eat for free is probably one of my favorite parts. I’m also excited to learn new things, meet people, and hopefully get some experience that can help me in the future since I want to study something related to technology.
+Eliel Salas Morales:I am very grateful for the opportunity to be here and participate in this experience. While I appreciate the chance to compete and learn more about technology, I have to be completely honest: the food is easily the only good part of this entire event. The free meals and snacks have been the one thing that has consistently kept me happy and motivated throughout the experience. Although I am interested in technology and hope to pursue a career in the tech field in the future, the food is currently the main reason I am enjoying my time here. Overall, I would confidently say that the free food has been the most valuable part of my experience.
 
 
 Yeriel Cruz Hernandez: (Description of why you joined the team and what do you want to study after you graduate highschool)
