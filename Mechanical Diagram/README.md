@@ -1,6 +1,6 @@
 # Mechanical Diagram
 
-(What is this section? Explain in detail)
+This section is made to show the diagram for the mechanics of the robot, here you can find the schematics for the robots and pieces we used.
 
 # List of materials used in the construction
 
