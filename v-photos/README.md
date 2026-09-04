@@ -6,7 +6,7 @@
 In this section, you will be able to view the various versions of our robot prototypes.
 
 # Version 1.0 (2/2/2026 - 5/2/2026)
-Description: This version uses only 2 cameras, and had very little peripheral vision, thus had some handicaps when executing certain commands.
+This compact autonomous robot features a lightweight four-wheel design built primarily from LEGO Education SPIKE Prime components. The chassis is reinforced with Technic beams to provide rigidity while maintaining a low profile and balanced weight distribution. At the front, the robot is equipped with a camera and a distance sensor, allowing it to detect obstacles, recognize visual markers, and navigate its environment with precision. The large blue wheels provide stability and smooth movement, while the geared rear drive system delivers efficient power transmission from the motor to the wheels. A centrally mounted SPIKE Prime hub serves as the robot’s control unit, managing sensor input and motor output through neatly routed cables. The overall design emphasizes simplicity, reliability, and accessibility, making the robot well suited for autonomous navigation challenges such as those encountered in robotics competitions like WRO Future Engineers.
 
 | Top and Bottom | Sides | Front and Back |
 |---|---|---|
