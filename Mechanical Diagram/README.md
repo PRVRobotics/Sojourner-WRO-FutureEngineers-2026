@@ -4,7 +4,7 @@
 
 # List of materials used in the construction
 
-| Piece | Part number | Amount |
+| Component | Part number | Amount |
 |---|---:|---| 
 | |  | |
 | | |  |
