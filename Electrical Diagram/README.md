@@ -17,7 +17,8 @@ The electrical diagrams represent the connections established in our robot from 
 
 # Diagram of the connections
 
-(Image of the connections)
+<img width="1230" height="626" alt="image" src="https://github.com/user-attachments/assets/f5d6f708-fed0-4cae-969c-64e663fe3ebe" />
+
 
 # Why did we use these components and connections?
 
