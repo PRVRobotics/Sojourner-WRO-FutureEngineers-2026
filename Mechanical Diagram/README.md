@@ -6,13 +6,13 @@
 
 | Component | Part number | Amount |
 |---|---:|---| 
-| |  | |
-| | |  |
-|  |  | |
-|  |  | |
-| || |
-| |  | |
-| | | |
+|Blue Brick 2X4 | 6224916 | |
+|Red Brick 2X4 |6224918 |  |
+|Connector Peg yellow  | 4666579 | |
+|Connector peg black  | 6279875 | |
+|Cross Axle 2m |6089119| |
+|Frame 3X3 black |6265644  | |
+|Frame 7X11 Viole |6252663 | |
 | | | |
 | | | |
 | | | |
