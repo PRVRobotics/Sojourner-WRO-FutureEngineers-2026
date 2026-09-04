@@ -21,5 +21,5 @@ The electrical diagrams represent the connections established in our robot from 
 
 
 # Why did we use these components and connections?
-
+We use color sensor A for detecting the red and green trafic signs, we used distance detector B
 (EXPLAIN IN DETAIL IM SERIOUS, Easy 30 pts)
