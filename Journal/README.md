@@ -44,3 +44,5 @@ After, we decided to log what we had done this day.
 8/28/2026: We grouped up and worked on the robot's sensors while still working on the Github.
 
 8/29/2026: Today we took photos of the robot and worked on the Github.
+
+9/4/2026: 
