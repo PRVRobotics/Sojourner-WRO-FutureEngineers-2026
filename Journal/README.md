@@ -45,4 +45,4 @@ After, we decided to log what we had done this day.
 
 8/29/2026: Today we took photos of the robot and worked on the Github.
 
-9/4/2026: today, we are working on the GitHub, 
+9/4/2026: Today, we are working on the GitHub, while also focusing on the rest of the components that the robot could be missing.
