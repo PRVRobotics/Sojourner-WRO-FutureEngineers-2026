@@ -19,19 +19,11 @@ This section is made to show the diagram for the mechanics of the robot, here yo
 
 # Diagram of the robot
 
-(Explain what is gonna be in the photo with detail)
+In the picture, you can see our robot from a top-down view. You can also see the cables connecting the different sensors to the robot.
 
-(Image of a simulation made in studio 2.0)
-(Images of the actual robot) 
-
-# Building instructions for our robot
-
-(Explain what is gonna be in the pdf file )
-
-(PDF file with the building instructions of the robot
-
-# Why did we use this desing and building kit?
-
-(Explain in detail please) 
+<img width="2048" height="1536" alt="Top" src="https://github.com/user-attachments/assets/cce84daa-0c69-4709-bdaf-cd74f1b2afa6" />
 
 
+# Why did we use this design and building kit?
+
+We decided to use the LEGO SPIKE building kit because we found it simple to use and precise. We chose this design because it is simple yet efficient and uses sensors to make the programming process easier and more effective.
