@@ -4,7 +4,7 @@ The code represents what the robot will be commanded to do by code block, that b
 
 # Code in Word Blocks
 
-(Images of the program) 
+Images of the program:
 
 
 
