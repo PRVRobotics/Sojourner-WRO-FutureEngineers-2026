@@ -15,4 +15,4 @@
 # Version 1.3
 (Picture of code)
 
-# #  Explanation of code 1.3
+# Explanation of code 1.3
