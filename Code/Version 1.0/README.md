@@ -5,10 +5,7 @@
 # Version 1.1
 (Picture of code)
 
-# Thinking process of version 1.1
-
--
-Sojourner (open 1) — Pseudocode
+Thinking process of version 1.1
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
 Challenge: Open Challenge — Basic Track Navigation
