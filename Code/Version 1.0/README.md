@@ -8,11 +8,15 @@
 Thinking process of version 1.1
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
+
 Challenge: Open Challenge — Basic Track Navigation
+
 Direction: Counterclockwise
 
 Port Assignments:
+
    Port C = Drive Motor (main wheels)
+   
    Port D = Steering Motor (front wheel angle)
 
 Description:
