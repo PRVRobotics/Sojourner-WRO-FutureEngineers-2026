@@ -5,7 +5,9 @@
 # Version 1.1
 (Picture of code)
 
+# Thinking process of version 1.1
 
+-
 Sojourner (open 1) — Pseudocode
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
