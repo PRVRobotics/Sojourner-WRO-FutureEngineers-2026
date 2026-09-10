@@ -39,12 +39,12 @@ After, we decided to log what we had done this day.
 
 8/22/2026: Today, we focused solely on the robot's programming, ensuring the Open Challenge programming is optimal.
 
-8/27/2026: Today, we sat down and wrote and deleted various unnecessary files on the Github. 
+8/27/2026: Today, we sat down and wrote and deleted various unnecessary files on the GitHub. 
 
-8/28/2026: We grouped up and worked on the robot's sensors while still working on the Github.
+8/28/2026: We grouped up and worked on the robot's sensors while still working on the GitHub.
 
-8/29/2026: Today we took photos of the robot and worked on the Github.
+8/29/2026: Today we took photos of the robot and worked on the GitHub.
 
 9/4/2026: Today, we are working on the GitHub, while also focusing on the rest of the components that the robot could be missing.
 
-9/5/2026: Today, we went to el coliseo 
+9/5/2026: Today, we went to coliseito Pedrin Sorilla to participate in an WRO regional Olympic competition in the San Juan district. We stayed for an approximated 6 hours, there, Aurelio, Yeriel and Jomal met up. While Jomal worked as a coach, Yeriel and Aurelio worked on the robot, working on the coding for the open challenge and the obstacle challenge. We made some improvements in terms of the open challenge but made small amounts on the open challenge. when time came to see our placement, we got 13 points, and we soon found out we got 3rd place in the future engineers category. if we had the opportunity to change or add to improve our skill set, it would to be to improve the overall code of the obstacle course.
