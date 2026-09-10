@@ -5,8 +5,7 @@
 # Version 1.1
 (Picture of code)
 
-# Thinking process of version 1.1
-============================================================
+
 Sojourner (open 1) — Pseudocode
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
@@ -23,7 +22,6 @@ Description:
    commands to drive straight segments and turn corners.
    No sensors are used — the path is pre-programmed based
    on measured track dimensions.
-============================================================
 
 --- WHEN PROGRAM STARTS ---
 
