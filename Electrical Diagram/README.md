@@ -25,7 +25,8 @@ We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Dist
 # Where are these connections in the robot
 | Port | Explanation | Picture of the connection |
 |---|---:|---| 
-| A | | | 
+| A | We use this color sensor to detect objects becausee it benefits us in many ways and makes the robot function better.|<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c001587b-cdc7-41a1-b525-c2d62e6e0868" />
+ | 
 | B | | |
 | C | | |
 | D | | |
