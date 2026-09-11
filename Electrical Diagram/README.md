@@ -15,7 +15,7 @@ The electrical diagrams represent the connections established in our robot from 
 |LEGO Black SPIKE Color Sensor (37308) | 1x |It can detect colors, reflected light, and ambient light. This can be used for things like following a line or recognizing colored objects. |
 | Cables | 7x |They carry power and information between the Hub and the motors/sensors. |
 
-# Diagram of the connections
+# Power and Sensor Architecture
 
 <img width="1230" height="626" alt="image" src="https://github.com/user-attachments/assets/f5d6f708-fed0-4cae-969c-64e663fe3ebe" />
 
