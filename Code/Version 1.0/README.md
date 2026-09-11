@@ -60,7 +60,8 @@ Note: The hub display shows "double it" as a debug message
 indicating the program completed successfully.
 
 # Version 1.2
-(Picture of code)
+<img width="901" height="580" alt="image_2026-09-11_013457788" src="https://github.com/user-attachments/assets/86df3341-7f61-44a9-b54b-076f3ab64cbd" />
+
 
 Thinking process of version 1.2
 ============================================================
