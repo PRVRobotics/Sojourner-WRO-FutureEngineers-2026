@@ -3,7 +3,8 @@
 (Explain in detail)
 
 # Version 1.1
-(Picture of code)
+<img width="744" height="520" alt="image_2026-09-11_013150345" src="https://github.com/user-attachments/assets/83470386-463b-4226-826e-8a578d12d785" />
+
 
 Thinking process of version 1.1
 ============================================================
