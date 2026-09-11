@@ -27,8 +27,6 @@ We decided to use the LEGO SPIKE building kit because we found it simple to use 
 
 # Engineering desicions 
 
-(Explain)
-
 **Why was this specific desing chosen?**
 
 (Explain)
@@ -49,8 +47,6 @@ We decided to use the LEGO SPIKE building kit because we found it simple to use 
 (Piture of this version)
 
 # Engineering desicions 
-
-(Explain)
 
 **Why was this specific desing chosen?**
 
