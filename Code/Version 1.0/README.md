@@ -5,7 +5,7 @@
 # Version 1.1
 (Picture of code)
 
-Thinking process of version 1.1
+Thinking process of version 1.2
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
 
