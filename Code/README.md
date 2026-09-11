@@ -10,8 +10,9 @@ The code was created for the purpose of completing the open course in the right 
 <img width="446" height="503" alt="image" src="https://github.com/user-attachments/assets/e08c97b0-09ae-45ed-803d-5f5b7f5849ef" />
 
 # Systems Thinking process of version 2.1
-(Explain in detail step by step)
+This version of the program was developed for Version 1 of our robot. Since this version used larger wheels, we set the directional motor to operate at 40% speed. The acceleration motor was set to 75% speed to provide greater precision and control during movement.
 
+The program begins by positioning the wheels in a relatively straight position. The robot is then programmed to move forward for 1,400 degrees using the acceleration motor. After completing this movement, the directional motor turns 30 degrees to the right. Finally, the acceleration motor moves the robot forward for an additional 700 degrees.
 # Version 2.2
 <img width="335" height="367" alt="image" src="https://github.com/user-attachments/assets/c67ae944-db80-43da-8bb4-32da5e57f5dd" />
 
