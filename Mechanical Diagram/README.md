@@ -29,7 +29,7 @@ We decided to use the LEGO SPIKE building kit because we found it simple to use 
 
 **Why was this specific design chosen?**
 
-(Explain) The Lego spike set was chosen because it was made with ease and with uneven terrain in mind. The shape of the robot was made with speed in mind, so we made it as slim as possible. These wheels help gain better traction over the terrain while also being large enough to have stability ensured. The robot uses a technic steering system to change directions by pitching the axel in a completely different direction. The reason we chose this optic system for the robot that one sensor would be looking at floor while another would look forward and the last one would be distance sensor, track the distance at which objects are placed. The robot works in the manner that it's a track robot, meant to do a certain amount of laps and complete obstacle courses, similar to a race course.
+The Lego spike set was chosen because it was made with ease and with uneven terrain in mind. The shape of the robot was made with speed in mind, so we made it as slim as possible. These wheels help gain better traction over the terrain while also being large enough to have stability ensured. The robot uses a technic steering system to change directions by pitching the axel in a completely different direction. The reason we chose this optic system for the robot that one sensor would be looking at floor while another would look forward and the last one would be distance sensor, track the distance at which objects are placed. The robot works in the manner that it's a track robot, meant to do a certain amount of laps and complete obstacle courses, similar to a race course.
 
 **What are the benefits?**
 
