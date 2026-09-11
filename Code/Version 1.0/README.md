@@ -149,7 +149,8 @@ motor_C.stop()
 --- END OF PROGRAM ---
 
 # Version 1.3
-(Picture of code)
+<img width="579" height="561" alt="image_2026-09-11_013619115" src="https://github.com/user-attachments/assets/21a6f3b0-9f23-4373-9075-0097bbdab4fc" />
+
 
 Thinking process of version 1.3
 ============================================================
