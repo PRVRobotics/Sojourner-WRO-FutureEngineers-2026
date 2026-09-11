@@ -5,7 +5,7 @@
 # Version 1.1
 (Picture of code)
 
-Thinking process of version 1.2
+Thinking process of version 1.1
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
 
@@ -61,7 +61,7 @@ indicating the program completed successfully.
 # Version 1.2
 (Picture of code)
 
-Thinking process of version 1.1
+Thinking process of version 1.2
 ============================================================
 Platform: LEGO Spike Prime (Flipper Hub)
 Challenge: Open Challenge — Yaw-Assisted Navigation
