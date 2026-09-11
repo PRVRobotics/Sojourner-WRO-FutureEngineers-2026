@@ -22,9 +22,12 @@ The electrical diagrams represent the connections established in our robot from 
 # Where are these connections in the robot
 | Port | Explanation | Picture of the connection |
 |---|---:|---| 
-
-
-
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 # Why did we use these components and connections?
 We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Distance Sensor B is used to detect walls on the robot’s right side. Acceleration Motor C allows the robot to move forward and backward, while Directional Motor D enables the robot to turn left and right. Ultrasonic Distance Sensor E is used to detect walls and red and green traffic signs in front of the robot. Lastly, Ultrasonic Distance Sensor F is used to detect walls on the robot’s left side.
