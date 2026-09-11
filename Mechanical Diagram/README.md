@@ -33,7 +33,8 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **What are the benefits?**
 
-(Explain) 
+(Explain) the benefits to this to this robot is that it had a bit more stability and ran alright 
+
 **What disadvantages does it have?**
 
 (Explain)
