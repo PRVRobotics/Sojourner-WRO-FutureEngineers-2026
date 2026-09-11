@@ -293,8 +293,8 @@ while True:  Forever loop — runs until program is stopped
                 Start driving forward continuously at high speed
     
     else:
-        No obstacle within 14 cm — keep driving
-        motor_C.start(counterclockwise)
+       No obstacle within 14 cm — keep driving
+      motor_C.start(counterclockwise)
             Continue driving forward at current speed
 
 --- END OF MAIN LOOP (runs until hub button is pressed) ---
