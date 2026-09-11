@@ -25,8 +25,7 @@ We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Dist
 # Where are these connections in the robot
 | Port | Explanation | Picture of the connection |
 |---|---:|---| 
-| A | | <img width="1138" height="832" alt="Screenshot 2026-04-19 234659" src="https://github.com/user-attachments/assets/07e6c2e0-793e-40c2-a5ef-edb2778b642c" />
-| 
+| A | | <img width="1138" height="832" alt="Screenshot 2026-04-19 234659" src="https://github.com/user-attachments/assets/07e6c2e0-793e-40c2-a5ef-edb2778b642c" />| 
 | B | | |
 | C | | |
 | D | | |
