@@ -15,6 +15,9 @@ The electrical diagrams represent the connections established in our robot from 
 |LEGO Black SPIKE Color Sensor (37308) | 1x |It can detect colors, reflected light, and ambient light. This can be used for things like following a line or recognizing colored objects. |
 | Cables | 7x |They carry power and information between the Hub and the motors/sensors. |
 
+# Why did we use these components and connections?
+We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Distance Sensor B is used to detect walls on the robot’s right side. Acceleration Motor C allows the robot to move forward and backward, while Directional Motor D enables the robot to turn left and right. Ultrasonic Distance Sensor E is used to detect walls and red and green traffic signs in front of the robot. Lastly, Ultrasonic Distance Sensor F is used to detect walls on the robot’s left side.
+
 # Diagram of the connections
 
 <img width="1230" height="626" alt="image" src="https://github.com/user-attachments/assets/f5d6f708-fed0-4cae-969c-64e663fe3ebe" />
@@ -28,6 +31,3 @@ The electrical diagrams represent the connections established in our robot from 
 | D | | |
 | E | | |
 | F | | |
-
-# Why did we use these components and connections?
-We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Distance Sensor B is used to detect walls on the robot’s right side. Acceleration Motor C allows the robot to move forward and backward, while Directional Motor D enables the robot to turn left and right. Ultrasonic Distance Sensor E is used to detect walls and red and green traffic signs in front of the robot. Lastly, Ultrasonic Distance Sensor F is used to detect walls on the robot’s left side.
