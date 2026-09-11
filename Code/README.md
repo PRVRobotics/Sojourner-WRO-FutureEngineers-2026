@@ -6,8 +6,6 @@ The code represents what the robot will be commanded to do by code block, that b
 
 The code was created for the purpose of completing the open course in the right direction. It uses ultrasonic distance sensors to measure distances and stop at the correct positions. The robot then uses pre-programmed actions to move in the correct direction throughout the course. While the code is not yet perfectly functional, it successfully allows the robot to complete a large portion of the course.
 
-#  Version of Code in Word Blocks
-
 # Version 2.1
 <img width="446" height="503" alt="image" src="https://github.com/user-attachments/assets/e08c97b0-09ae-45ed-803d-5f5b7f5849ef" />
 
