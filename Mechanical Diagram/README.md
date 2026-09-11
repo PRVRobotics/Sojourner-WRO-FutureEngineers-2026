@@ -27,24 +27,46 @@ We decided to use the LEGO SPIKE building kit because we found it simple to use 
 
 # Engineering desicions 
 
+(Explain)
+
 **Why was this specific desing chosen?**
+
+(Explain)
 
 **What are the benefits?**
 
+(Explain)
+
 **What disadvantages does it have?**
 
+(Explain)
+
 **What would we change in it?**
+
+(Explain)
 
 # Version 2.0
 (Piture of this version)
 
-# Why was this specific desing chosen?
+# Engineering desicions 
 
-# What are the benefits?
+(Explain)
 
-# What disadvantages does it have? 
+**Why was this specific desing chosen?**
 
-# What would we change in it? 
+(Explain)
+
+**What are the benefits?**
+
+(Explain)
+
+**What disadvantages does it have?**
+
+(Explain)
+
+**What would we change in it?**
+
+(Explain)
 
 
 
