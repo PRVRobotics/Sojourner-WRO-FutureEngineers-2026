@@ -1,7 +1,6 @@
 # What can we find in this section of the programing?
 
-In this seccion u may fin the previous version of our robots code and process.
-
+In this section, you may find the previous version of our robot’s code and development process.
 # Version 1.1
 <img width="744" height="520" alt="image_2026-09-11_013150345" src="https://github.com/user-attachments/assets/83470386-463b-4226-826e-8a578d12d785" />
 
