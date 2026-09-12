@@ -37,15 +37,15 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **What are the benefits?**
 
-(Explain) the benefits to this to this robot is that it had a bit more stability and ran alright, it allowed the robot to run slower but was less prone to break downs. When in first WRO competition, we were able to have the robot on the track for various laps without needing to check up on it, all the while being in perfect condition. Another thing to remark was how well the wheels kept stability, during the WRO competition, we observed that the wheels had an insane amount of stability.
+ the benefits to this to this robot is that it had a bit more stability and ran alright, it allowed the robot to run slower but was less prone to break downs. When in first WRO competition, we were able to have the robot on the track for various laps without needing to check up on it, all the while being in perfect condition. Another thing to remark was how well the wheels kept stability, during the WRO competition, we observed that the wheels had an insane amount of stability.
 
 **What disadvantages does it have?**
 
-(Explain) The disadvantages to this model was it's lack of speed in the open course and the obstacle course, when preforming in the open course section, it would turn very slowly and run slowly as well. During the first WRO competition, when time came to compete, the robot would run, however it would complete laps very slowly. Another unresolved issue we had was the lack of sensors, while it could run with said three sensors, it ran at minimal efficiency, and it had little peripheral vision.  
+ The disadvantages to this model was it's lack of speed in the open course and the obstacle course, when preforming in the open course section, it would turn very slowly and run slowly as well. During the first WRO competition, when time came to compete, the robot would run, however it would complete laps very slowly. Another unresolved issue we had was the lack of sensors, while it could run with said three sensors, it ran at minimal efficiency, and it had little peripheral vision.  
 
 **What would we change in it?**
 
-(Explain) We would change the tires for smaller, more quicker tires, change the sensors and replace the color sensors for distance sensors to keep adequate track of the surroundings on the field. We also turned our attention towards the speed of the robot.
+ We would change the tires for smaller, more quicker tires, change the sensors and replace the color sensors for distance sensors to keep adequate track of the surroundings on the field. We also turned our attention towards the speed of the robot.
 
 # Version 2.0
 (Picture of this version)
