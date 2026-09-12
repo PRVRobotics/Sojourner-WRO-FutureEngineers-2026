@@ -23,8 +23,7 @@ We decided to use the LEGO SPIKE building kit because we found it simple to use 
 
 
 # Version 1.0
-(Piture of this version)
-
+<img width="4032" height="3024" alt="top (1)" src="https://github.com/user-attachments/assets/dbf501d5-c118-4298-91e0-2094062e4f23" />
 
 https://github.com/user-attachments/assets/44a1af55-991c-4e48-937a-46347bd9d03d
 
