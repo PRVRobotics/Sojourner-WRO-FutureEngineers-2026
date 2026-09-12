@@ -54,11 +54,11 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **Why was this specific design chosen?**
 
-(Explain)
+(Explain) This model was chosen due to the ease of Lego spike's building capabilities. We decided to maintain the original form from the first design, keeping the slick, elongated design. We have decided to switch over to a much more smaller wheel design, to help with speed. The robot uses the same technic steering system to change the direction in which the robot steers. We decided to add more distance sensors so that when time came to preform, we could have more of an even playing field. the way this works is that it will scan the field and will change direction when it comes close within the programmed distance.
 
 **What are the benefits?**
 
-(Explain)
+(Explain) The benefits to this new model are that the new sensors allow for robot to a have greater field of vision so that when the sensors come within the range of a surface, it can react with greater precision and accuracy. 
 
 **What disadvantages does it have?**
 
