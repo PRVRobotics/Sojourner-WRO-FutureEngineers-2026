@@ -22,7 +22,7 @@ The electrical diagrams represent the connections established in our robot from 
 # Why did we use these components and connections?
 We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Distance Sensor B is used to detect walls on the robot’s right side. Acceleration Motor C allows the robot to move forward and backward, while Directional Motor D enables the robot to turn left and right. Ultrasonic Distance Sensor E is used to detect walls and red and green traffic signs in front of the robot. Lastly, Ultrasonic Distance Sensor F is used to detect walls on the robot’s left side.
 
-# Where are these connections in the robot
+# Where are these connections in the robot?
 | Port | Explanation | Picture of the connection |
 |---|---:|---| 
 | A | We use this color sensor to detect objects and colors because it helps the robot understand what is around it and react correctly. The sensor can make the robot more accurate and efficient by allowing it to identify different objects, follow lines, and make decisions based on what it detects. Using sensors like this also helps us learn important engineering skills, such as programming, problem-solving, testing, and designing robots. In the future, these skills could help us as engineers because real-world robots use sensors to work in factories, hospitals, transportation, and many other areas. Learning how to use a color sensor now gives us experience that we can build on when creating more advanced technology in the future. |<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/477ecb56-5ad1-43d9-bf64-c2c88c60830c" />| 
