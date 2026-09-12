@@ -5,6 +5,7 @@ Our team is called PRV, and it was formed with the purpose of participating in a
 # Team Description
 
 Our team is made up of:
+
 Yeriel Cruz, an aspiring aerospace engineer who wants to gain valuable experience in robotics.
 
 Eliel Salas: a technology enthusiast who is interested in expanding his knowledge of technology while also exploring different culinary cultures.
