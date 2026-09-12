@@ -39,4 +39,9 @@ We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Dist
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
 
