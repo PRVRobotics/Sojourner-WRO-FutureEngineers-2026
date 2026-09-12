@@ -15,7 +15,7 @@ Aurelio Perez: an art and aviation aficionado who enjoys trying new things and w
 
 # What is the purpose of this Git Hub?
 
-(Write here) explanation 5
+This GitHub repository was created to document our engineering decisions, design choices, systems-thinking process, and building instructions. We made the repository as accurate and thorough as possible so that others can understand our reasoning, learn from our mistakes, and avoid similar issues in their own projects. We also included a detailed explanation of the decisions that led to our final robot design so that readers can understand and appreciate the development process from our point of view. Our systems-thinking process is mainly reflected in the robot’s programming, which we explained in detail to show how the robot is able to complete its required tasks. In addition, we included detailed building instructions to make our design as reproducible as possible. Our goal is for other people who are interested in our robot to be able to recreate the design and better understand how each mechanical, electrical, and programming decision contributed to the final result. 
 
 # Table of contents folder names 2sen for des 
 
