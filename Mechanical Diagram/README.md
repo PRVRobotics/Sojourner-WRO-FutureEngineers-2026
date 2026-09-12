@@ -6,7 +6,7 @@ This section is made to show the diagram for the mechanics of the robot, here yo
 
 | Component | Part number | Amount |
 |---|---:|---| 
-|Blue Brick 2X4 | 6224916 | 6x |
+|Blue Brick 2X4 | 6224916 | 6
 |Red Brick 2X4 |6224918 | 4x |
 |Connector Peg yellow  | 4666579 | 20x |
 |Connector peg black  | 6279875 | 33x |
@@ -37,7 +37,7 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **What are the benefits?**
 
-(Explain) the benefits to this to this robot is that it had a bit more stability and ran alright, it allowed the robot to run slower but was less prone to break downs. 
+(Explain) the benefits to this to this robot is that it had a bit more stability and ran alright, it allowed the robot to run slower but was less prone to break downs. When in first WRO competition, we were able to have the robot on the track for various laps without needing to check up on it, all the while being in perfect condition. Another thing to remark was how well the wheels kept stability, during the WRO competition, we observed that the wheels had an insane amount of stability.
 
 **What disadvantages does it have?**
 
