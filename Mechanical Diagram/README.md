@@ -37,15 +37,15 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **What are the benefits?**
 
-(Explain) the benefits to this to this robot is that it had a bit more stability and ran alright 
+(Explain) the benefits to this to this robot is that it had a bit more stability and ran alright, it allowed the robot to run slower but was less prone to break downs. 
 
 **What disadvantages does it have?**
 
-(Explain)
+(Explain) the disadvantages to this model was it's lack of speed in the open course and the obstacle course, when preforming in the open course section, it would turn very slowly and run slowly as well.
 
 **What would we change in it?**
 
-(Explain)
+(Explain) We would change the tires for smaller, more quicker tires, change the sensors and replace the color sensors for distance sensors to keep adequate track of the surroundings on the field.  
 
 # Version 2.0
 (Piture of this version)
