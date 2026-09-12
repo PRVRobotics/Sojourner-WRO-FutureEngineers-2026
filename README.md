@@ -1,6 +1,6 @@
-# Who are we ? 3sen
+# Who are we ?
 
-Our team is called PRV, and it was formed with the purpose of participating in and completing the WRO Future Engineers Challenge.  
+Our team is called PRV, and it was formed with the purpose of participating in and completing the WRO Future Engineers Challenge. Our team was originally formed through an academic institution called Techno Inventors. At first, we participated mainly for academic purposes, but as we continued developing our robot and improving our skills, we became more engaged and began to truly enjoy the entire process.   
 
 # Team Description
 
