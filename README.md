@@ -1,6 +1,16 @@
-# Table of contents
+# Who are we ?
 
-(Explain what this seccion is in detail)
+(Write here)
+
+# Team Description
+
+(Write here)
+
+# What is the purpose of this Git Hub?
+
+(Write here)
+
+# Table of contents
 
 | Seccion | Description | Link |
 |----------|----------|----------|
