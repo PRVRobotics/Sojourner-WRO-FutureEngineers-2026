@@ -4,7 +4,13 @@ Our team is called PRV, and it was formed with the purpose of participating in a
 
 # Team Description
 
-Our team is made up of Yeriel Cruz, an aspiring aerospace engineer who wants to gain valuable experience in robotics; Eliel Salas, a technology enthusiast who is interested in expanding his knowledge of technology while also exploring different culinary cultures; and Aurelio Perez, an art and aviation aficionado who enjoys trying new things and wants to gain experience in the field of robotics. 
+Our team is made up of:
+Yeriel Cruz, an aspiring aerospace engineer who wants to gain valuable experience in robotics.
+
+Eliel Salas: a technology enthusiast who is interested in expanding his knowledge of technology while also exploring different culinary cultures.
+
+Aurelio Perez: an art and aviation aficionado who enjoys trying new things and wants to gain experience in the field of robotics. 
+
 
 # What is the purpose of this Git Hub?
 
