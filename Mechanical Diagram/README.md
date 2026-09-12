@@ -25,11 +25,6 @@ We decided to use the LEGO SPIKE building kit because we found it simple to use 
 # Version 1.0
 (Piture of this version)
 
-
-https://github.com/user-attachments/assets/58667fe0-7ec9-4eb9-be52-ff31a7c22d22
-
-
-
 # Engineering desicions 
 
 **Why was this specific design chosen?**
