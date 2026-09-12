@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/44a1af55-991c-4e48-937a-46347bd9d03d
 
 
 
-# Engineering desicions 
+# Engineering decisions 
 
 **Why was this specific design chosen?**
 
@@ -41,14 +41,14 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **What disadvantages does it have?**
 
-(Explain) the disadvantages to this model was it's lack of speed in the open course and the obstacle course, when preforming in the open course section, it would turn very slowly and run slowly as well.
+(Explain) The disadvantages to this model was it's lack of speed in the open course and the obstacle course, when preforming in the open course section, it would turn very slowly and run slowly as well. During the first WRO competition, when time came to compete, the robot would run, however it would complete laps very slowly. Another unresolved issue we had was the lack of sensors, while it could run with said three sensors, it ran at minimal efficiency, and it had little peripheral vision.  
 
 **What would we change in it?**
 
-(Explain) We would change the tires for smaller, more quicker tires, change the sensors and replace the color sensors for distance sensors to keep adequate track of the surroundings on the field.  
+(Explain) We would change the tires for smaller, more quicker tires, change the sensors and replace the color sensors for distance sensors to keep adequate track of the surroundings on the field. We also turned our attention towards the speed of the robot.
 
 # Version 2.0
-(Piture of this version)
+(Picture of this version)
 
 # Engineering decisions 
 
