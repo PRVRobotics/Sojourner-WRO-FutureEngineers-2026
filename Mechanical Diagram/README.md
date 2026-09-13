@@ -58,15 +58,15 @@ The Lego spike set was chosen because it was made with ease and with uneven terr
 
 **What are the benefits?**
 
-(Explain) The benefits to this new model are that the new sensors allow for robot to a have greater field of vision so that when the sensors come within the range of a surface, it can react with greater precision and accuracy. 
+(Explain) The benefits to this new model are that the new sensors allow for the robot to a have greater field of vision so that when the sensors come within the range of a surface, it can react with greater precision and accuracy. The wheels are much smaller; however, they allow for the robot to move much faster, letting us do the challenges much quicker.
 
 **What disadvantages does it have?**
 
-(Explain)
+(Explain)This version of robot is more to breakdowns comparative to the 1st version, and has much less stability, given how it was swapped out for more speed and vision. In the first version, going over unleveled pieces of board, it wouldn't normally be a problem, however, with this version, it would frequently break down and force it's back wheels to slag behind.
 
 **What would we change in it?**
 
-(Explain)
+(Explain) This robot could use some stability modifications, and could need some better maintenance. 
 
 
 
