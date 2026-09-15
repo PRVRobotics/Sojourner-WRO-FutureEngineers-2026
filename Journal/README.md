@@ -1,6 +1,6 @@
 # Journal
 
-The journal is a book of entries ment to detail every singular event that happened over the course of time that took to prepare the robot.
+The journal is a book of entries meant to detail every singular event that happened over the course of time that took to prepare the robot.
 
 # Preparations for national wro Puerto Rico competition   (2/2/2026 - 5/2/2026)
 
