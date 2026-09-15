@@ -66,7 +66,7 @@ This version of robot is more to breakdowns comparative to the 1st version, and 
 
 **What would we change in it?**
 
-(Explain) This robot could use some stability modifications, and could need some better maintenance. 
+This robot could use some stability modifications, and could need some better maintenance. 
 
 
 
