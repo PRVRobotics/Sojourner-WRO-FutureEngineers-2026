@@ -52,3 +52,5 @@ After, we decided to log what we had done this day.
 9/11/2026: Today, we worked on our GitHub repository and added important information that was missing from several sections, including the code explanations, mechanical diagram, and electrical diagram.
 
 9/12/2026: Today, we worked on the GitHub, working with the journal, Mechanical Diagram, Team Photos and Code, and later on, working on the robots open course code.
+
+9/17/2026: 
