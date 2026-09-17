@@ -44,5 +44,13 @@ We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Dist
 |   E   | front ultra sonic sensor  | 50 mA   |
 |   F   | left ultra sonic sensor   | 50 mA   |
 
+# What is the torque in the robot? 
+
+| Port | Component | Torque |
+|----------|----------|----------|
+|   C   | acceleration motor        ||
+|   D   | directional motor         ||
+
+
 
 
