@@ -48,7 +48,8 @@ The benefits to this robot is that it had a bit more stability and ran alright, 
 We would change the tires for smaller, more quicker tires, change the sensors and replace the color sensors for distance sensors to keep adequate track of the surroundings on the field. We also turned our attention towards the speed of the robot.
 
 # Version 2.0
-(Picture of this version)
+<img width="2048" height="1536" alt="643138093-2246966f-43e6-48bc-99b4-5c94b414bffc" src="https://github.com/user-attachments/assets/17e78be1-368e-42e8-905c-b533d544390a" />
+
 
 # Engineering decisions 
 
