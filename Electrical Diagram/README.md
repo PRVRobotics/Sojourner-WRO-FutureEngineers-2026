@@ -48,8 +48,8 @@ We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Dist
 
 | Port | Component | Torque |
 |----------|----------|----------|
-|   C   | acceleration motor        ||
-|   D   | directional motor         ||
+|   C   | acceleration motor        | 3.5 Ncm |
+|   D   | directional motor         | 8 Ncm |
 
 
 
