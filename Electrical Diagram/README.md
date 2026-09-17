@@ -36,12 +36,13 @@ We use Color Sensor A to detect the red and green traffic signs. Ultrasonic Dist
 
 | Port | Component | power consumption |
 |----------|----------|----------|
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Microcontroller | Technic large Hub | 500 mA |
+|   A   | color sensor              | 40 mA   |
+|   B   | right ultra sonic sensor  | 50 mA   |
+|   C   | acceleration motor        | 280 mA +/- 15% |
+|   D   | directional motor         | 430 mA +/- 15% |
+|   E   | front ultra sonic sensor  | 50 mA   |
+|   F   | left ultra sonic sensor   | 50 mA   |
+
 
 
