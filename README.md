@@ -24,10 +24,15 @@ This GitHub repository was created to document our engineering decisions, design
 
 | Section             | Description | Link     |
 |---------------------|-------------|----------|
-| Code                | Text        | Text     |
+| Code | Text         | Text        |
+| Version 1.0 Code    | Text        | Text     |
 | Electrical Diagram  | Text        | Text     |
 | Journal             | Text        | Text     |
 | Mechanical Diagram  | Text        | Text     |
+| Version 1.0 Building instructions  | Text        | Text     |
+| Version 2.0 Building instructions  | Text        | Text     |
 | T-photos            | Text        | Text     |
 | v-photos            | Text        | Text     |
+| Version 1.0 photos  | Text        | Text     |
+| Version 2.0 photos  | Text        | Text     |
 | videos              | Text        | Text     |
