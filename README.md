@@ -36,3 +36,13 @@ This GitHub repository was created to document our engineering decisions, design
 | Version 1.0 photos  | Text        | Text     |
 | Version 2.0 photos  | Text        | Text     |
 | videos              | Text        | Text     |
+
+
+| Section               | Description                                                                                                                                                                                              | GitHub Link    |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Code                  | Contains the complete source code used to program and control the robot. It includes the different commands and functions needed for the robot to operate correctly.                                     | View on GitHub |
+| Version 1.0 Code      | Contains the original code created for the first version of the robot. This code demonstrates the programming used before the robot received its design and performance improvements.                    | View on GitHub |
+| Version 2.0 Code      | Contains the updated code created for the improved version of the robot. It includes programming changes made to support the new mechanisms, movements, and improved performance.                        | View on GitHub |
+| Project Documentation | Contains important files and information related to the development of the robotics project. This section helps organize the project's code, documentation, and supporting materials in one location.    | View on GitHub |
+| README                | Provides an overview of the robotics project and explains its purpose, features, and development. It also helps visitors understand the organization of the GitHub repository and how the project works. | View on GitHub |
+
