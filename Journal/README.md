@@ -53,4 +53,6 @@ After, we decided to log what we had done this day.
 
 9/12/2026: Today, we worked on the GitHub, working with the journal, Mechanical Diagram, Team Photos and Code, and later on, working on the robots open course code.
 
-9/17/2026: Today, we worked on the Git
+9/17/2026: Today, we worked on the GitHub, and explained to 1 teammate what to expect from the WRO international competition.
+
+9/17/2026: Today, we worked on making a plan on what is expected of each individual teammate and how they should preform in the competitions, we also discussed what the schedule is for the WRO competition while still making space for the things we want to do. 
