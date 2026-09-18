@@ -9,7 +9,7 @@ Eliel Salas Morales:I am very grateful for the opportunity to be here and partic
 
 Yeriel Cruz Hernandez: I joined the team because I wanted to get more experience in the field of robotics and give myself a new challenge learn something new and grow. After I graduate, I want to study aerospace engineering, and that’s why I think gaining experience early on will be helpful toward achieving my goals and building my career.
 
-Aurelio Perez Huertas:  I joined the team when I had to switch over from my older team and when I graduate, I want to study animation, chef and aviation.
+Aurelio Perez Huertas:  I joined the team when I had to switch over from my older team and when I graduate, I want to study animation, chef and aviation and I'm a short king.
 
 # When and why was our team founded and formed?
 The team was formed on February 2, 2026, specifically to complete a technology class project that required us to participate in the 2026 WRO Future Engineers competition.
