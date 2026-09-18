@@ -37,6 +37,23 @@ This GitHub repository was created to document our engineering decisions, design
 | Version 2.0 photos  | Text        | Text     |
 | videos              | Text        | Text     |
 
+### GitHub Table
+
+| Section                           | Description                                                                                                                                                                                                | GitHub Link    |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Code                              | This section contains the programming code used to control and operate the robot. It includes the commands, functions, and programming logic responsible for the robot’s movements and actions.            | View on GitHub |
+| Version 1.0 Code                  | This section contains the original programming code developed for Version 1.0 of the robot. It documents how the first version was programmed and how its main functions were controlled.                  | View on GitHub |
+| Electrical Diagram                | This section contains the electrical diagram showing how the robot’s electronic components are connected. It identifies the connections between the hub, motors, sensors, and other electrical components. | View on GitHub |
+| Journal                           | This section contains documentation of the team’s progress throughout the robotics project. It records important ideas, challenges, testing results, changes, and improvements made during development.    | View on GitHub |
+| Mechanical Diagram                | This section shows the mechanical structure and design of the robot. It identifies important components, mechanisms, and connections that allow the robot to move and perform its functions.               | View on GitHub |
+| Version 1.0 Building Instructions | This section provides step-by-step instructions for constructing Version 1.0 of the robot. It explains how the LEGO pieces and mechanical components should be assembled to recreate the original design.  | View on GitHub |
+| Version 2.0 Building Instructions | This section provides detailed instructions for constructing the updated Version 2.0 robot. It explains the new assembly process and the structural improvements made from the original version.           | View on GitHub |
+| T-Photos                          | This section contains photographs taken during the robot’s testing and development process. The images document different stages of construction, testing, adjustments, and preparation.                   | View on GitHub |
+| V-Photos                          | This section contains photographs showing different views of the robot. These images provide a closer look at its structure, mechanisms, attachments, and overall design.                                  | View on GitHub |
+| Version 1.0 Photos                | This section contains photographs of the completed Version 1.0 robot. The images showcase its original structure, design, mechanisms, and overall appearance.                                              | View on GitHub |
+| Version 2.0 Photos                | This section contains photographs of the completed Version 2.0 robot. The images highlight the updated design, improved mechanisms, and changes made from Version 1.0.                                     | View on GitHub |
+| Videos                            | This section contains videos demonstrating the robot during testing and operation. The videos show its programmed movements, mechanisms, functions, and performance.                                       | View on GitHub |
+
 
 
 
