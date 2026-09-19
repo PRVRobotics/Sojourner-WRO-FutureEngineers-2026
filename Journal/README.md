@@ -55,4 +55,6 @@ After, we decided to log what we had done this day.
 
 9/17/2026: Today, we worked on the GitHub, and explained to 1 teammate what to expect from the WRO international competition.
 
-9/17/2026: Today, we worked on making a plan on what is expected of each individual teammate and how they should preform in the competitions, we also discussed what the schedule is for the WRO competition while still making space for the things we want to do. 
+9/18/2026: Today, we worked on making a plan on what is expected of each individual teammate and how they should preform in the competitions, we also discussed what the schedule is for the WRO competition while still making space for the things we want to do. 
+
+9/19/2026: Today we sat down with all the guardians of all the team members and talked 
