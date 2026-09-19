@@ -1,6 +1,6 @@
 # Who are we ?
 
-Our team is called PRV, and it was formed with the purpose of participating in and completing the WRO Future Engineers Challenge. Our team was originally formed through an academic institution called [...]
+Our team is called PRV Robotics, and it was formed with the purpose of participating in and completing the WRO Future Engineers Challenge. Our team was originally formed through an academic institution called Techno Inventors.
 
 # Team Description
 
@@ -18,7 +18,7 @@ Aurelio Perez: an art and aviation aficionado who enjoys trying new things and w
 
 # What is the purpose of this Git Hub?
 
-This GitHub repository was created to document our engineering decisions, design choices, systems-thinking process, and building instructions. We made the repository as accurate and thorough as possible.
+This GitHub repository was created to document our engineering decisions, design choices, systems-thinking process, and building instructions. We made the repository as accurate and thorough as possible. This gives students who want to use our robot and desing as a stepping stone for their intruduction to the future engineers competicion. 
 
 # Table of contents
 
