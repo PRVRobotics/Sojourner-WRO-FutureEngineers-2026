@@ -4,7 +4,7 @@ Our team is called PRV, and it was formed with the purpose of participating in a
 
 # Team Description
 
-<img width="1600" height="746" alt="643183616-8eeb3475-ee57-4757-b772-af531ddcb04c" src="https://github.com/user-attachments/assets/9a79bc4c-7305-4b7d-a7eb-7b0150fd3b94" />
+<img width="2040" height="942" alt="WhatsApp Image 2026-09-18 at 8 30 43 PM" src="https://github.com/user-attachments/assets/14499572-70d1-41e8-86fd-db50d7c41b93" />
 
 
 Our team is made up of:
