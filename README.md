@@ -22,23 +22,20 @@ This GitHub repository was created to document our engineering decisions, design
 
 # Table of contents
 
-
-### GitHub Table
-
-| Section                           | Description |
-| --------------------------------- | ----------- |
-| Code                              | The current programs used to control the robot, including navigation logic, sensor input, motor control, and the systems-thinking process behind each version. |
-| Version 1.0 Code                  | The original software developed for Version 1.0, including its movement strategy, control logic, and the decisions that shaped the first robot design. |
-| Electrical Diagram                | A visual reference for the robot’s wiring, showing how the hub, motors, sensors, and cables are connected and how each component supports the system. |
-| Journal                           | A chronological record of the team’s progress, including ideas, challenges, tests, results, design changes, and lessons learned during development. |
-| Mechanical Diagram                | Detailed views of the robot’s structure, mechanisms, and major connections, explaining how the mechanical system is assembled and operates. |
-| Version 1.0 Building Instructions | Step-by-step instructions for assembling the original robot, from the main frame and drive system to the sensors and other mechanisms. |
-| Version 2.0 Building Instructions | Step-by-step instructions for assembling the updated robot, highlighting its revised structure, improved mechanisms, and key changes from Version 1.0. |
-| T-Photos                          | Photos documenting construction, testing, adjustments, and other important stages in the robot’s development. |
-| V-Photos                          | Photos showing the robot from multiple viewpoints, providing a clear look at its structure, mechanisms, attachments, and overall layout. |
-| Version 1.0 Photos                | Photos of the completed Version 1.0 robot, showcasing its original design, construction, mechanisms, and final appearance. |
-| Version 2.0 Photos                | Photos of the completed Version 2.0 robot, highlighting its updated design, improved mechanisms, and differences from Version 1.0. |
-| Videos                            | Videos demonstrating the robot during testing and operation, including its movement, mechanisms, programmed behaviors, and performance on the course. |
+| Section                           | Description | Link |
+| --------------------------------- | ----------- | ---------------|
+| Code                              | The current programs used to control the robot, including navigation logic, sensor input, motor control, and the systems-thinking process behind each version. | |
+| Version 1.0 Code                  | The original software developed for Version 1.0, including its movement strategy, control logic, and the decisions that shaped the first robot design. | |
+| Electrical Diagram                | A visual reference for the robot’s wiring, showing how the hub, motors, sensors, and cables are connected and how each component supports the system. | |
+| Journal                           | A chronological record of the team’s progress, including ideas, challenges, tests, results, design changes, and lessons learned during development. | |
+| Mechanical Diagram                | Detailed views of the robot’s structure, mechanisms, and major connections, explaining how the mechanical system is assembled and operates. | |
+| Version 1.0 Building Instructions | Step-by-step instructions for assembling the original robot, from the main frame and drive system to the sensors and other mechanisms. | |
+| Version 2.0 Building Instructions | Step-by-step instructions for assembling the updated robot, highlighting its revised structure, improved mechanisms, and key changes from Version 1.0. | |
+| T-Photos                          | Photos documenting construction, testing, adjustments, and other important stages in the robot’s development. | |
+| V-Photos                          | Photos showing the robot from multiple viewpoints, providing a clear look at its structure, mechanisms, attachments, and overall layout. | |
+| Version 1.0 Photos                | Photos of the completed Version 1.0 robot, showcasing its original design, construction, mechanisms, and final appearance. | |
+| Version 2.0 Photos                | Photos of the completed Version 2.0 robot, highlighting its updated design, improved mechanisms, and differences from Version 1.0. | |
+| Videos                            | Videos demonstrating the robot during testing and operation, including its movement, mechanisms, programmed behaviors, and performance on the course. | |
 
 
 
