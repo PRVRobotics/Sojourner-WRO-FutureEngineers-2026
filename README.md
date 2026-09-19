@@ -24,7 +24,7 @@ This GitHub repository was created to document our engineering decisions, design
 
 | Section                           | Description | Link |
 | --------------------------------- | ----------- | ---------------|
-| Code                              | The current programs used to control the robot, including navigation logic, sensor input, motor control, and the systems-thinking process behind each version. | [Code](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/Code#code)|
+| Code                              | The current programs used to control the robot, including navigation logic, sensor input, motor control, and the systems-thinking process behind each version. | [Code](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/Code#readme)|
 | Version 1.0 Code                  | The original software developed for Version 1.0, including its movement strategy, control logic, and the decisions that shaped the first robot design. |  [Version 1.0 Code  ](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/Code/Version%201.0#readme) |
 | Electrical Diagram                | A visual reference for the robot’s wiring, showing how the hub, motors, sensors, and cables are connected and how each component supports the system. |  [ Electrical Diagram ]() |
 | Journal                           | A chronological record of the team’s progress, including ideas, challenges, tests, results, design changes, and lessons learned during development. |  [ Journal  ]() |
