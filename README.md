@@ -31,7 +31,7 @@ This GitHub repository was created to document our engineering decisions, design
 | Mechanical Diagram                | Detailed views of the robot’s structure, mechanisms, and major connections, explaining how the mechanical system is assembled and operates. | |
 | Version 1.0 Building Instructions | Step-by-step instructions for assembling the original robot, from the main frame and drive system to the sensors and other mechanisms. | |
 | Version 2.0 Building Instructions | Step-by-step instructions for assembling the updated robot, highlighting its revised structure, improved mechanisms, and key changes from Version 1.0. | |
-| T-Photos                          | Photos documenting construction, testing, adjustments, and other important stages in the robot’s development. | |
+| T-Photos                          | Photos documenting the team and their background
 | V-Photos                          | Photos showing the robot from multiple viewpoints, providing a clear look at its structure, mechanisms, attachments, and overall layout. | |
 | Version 1.0 Photos                | Photos of the completed Version 1.0 robot, showcasing its original design, construction, mechanisms, and final appearance. | |
 | Version 2.0 Photos                | Photos of the completed Version 2.0 robot, highlighting its updated design, improved mechanisms, and differences from Version 1.0. | |
