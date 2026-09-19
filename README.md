@@ -34,7 +34,7 @@ This GitHub repository was created to document our engineering decisions, design
 | T-Photos                          | Photos documenting the team and their background | [T-Photos ](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/T-photos#readme) | 
 | V-Photos                          | Photos showing the robot from multiple viewpoints, providing a clear look at its structure, mechanisms, attachments, and overall layout. |  [V-Photos  ](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/v-photos#readme) |
 | Version 1.0 Photos                | Photos of the completed Version 1.0 robot, showcasing its original design, construction, mechanisms, and final appearance. |  [ Version 1.0 Photos  ](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/v-photos/Version%201.0) |
-| Version 2.0 Photos                | Photos of the completed Version 2.0 robot, highlighting its updated design, improved mechanisms, and differences from Version 1.0. |  [ Version 2.0 Photos   ]() |
+| Version 2.0 Photos                | Photos of the completed Version 2.0 robot, highlighting its updated design, improved mechanisms, and differences from Version 1.0. |  [ Version 2.0 Photos   ](https://github.com/PRVRobotics/Sojourner-WRO-FutureEngineers-2026/tree/main/v-photos/Version%202.0) |
 | Videos                            | Videos demonstrating the robot during testing and operation, including its movement, mechanisms, programmed behaviors, and performance on the course. |  [ Videos]() |
 
 
